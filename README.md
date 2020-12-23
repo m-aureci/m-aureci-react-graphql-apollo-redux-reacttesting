@@ -4,7 +4,7 @@
 
 # React + GraphQL + Apollo Client + Redux + React Testing Library + create-react-app + react-router-dom 👋
 
-Demonstration: https://react-graphql-apollo-redux-reacttesting.vercel.app/
+Demonstration: https://m-aureci-react-graphql-apollo-redux-reacttesting.vercel.app/
 </p>
 
 
@@ -21,7 +21,7 @@ Installation
 
 ## Project using React and the GraphCountries API
 
-Demonstration: https://react-graphql-apollo-redux-reacttesting.vercel.app/
+Demonstration: https://m-aureci-react-graphql-apollo-redux-reacttesting.vercel.app/
 
 Consume the Graphql API [GraphCountries](https://github.com/lennertVanSever/graphcountries).
 
